@@ -51,7 +51,7 @@ while (repetionCount < repetions)
     }
 }
 
-Console.WriteLine($"\nAvarage hours: {hours / repetions}");
+Console.WriteLine($"\nAverage hours: {hours / repetions}");
 Console.WriteLine($"Total hours for all repetions: {hours}");
 
 
